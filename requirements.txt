@@ -1,0 +1,10 @@
+datasets
+pandas
+sentence-transformers
+faiss-cpu
+openai
+python-dotenv
+graphviz
+streamlit
+PyMuPDF
+matplotlib
